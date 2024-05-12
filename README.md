@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Eugene Mark Barasu</h1>
+<h1 align="center">Hi 👋, I'm Eugene Mark Korku Barasu</h1>
 <h3 align="center">A passionate frontend developer from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -33,7 +33,7 @@
 <a href="https://stackoverflow.com/users/eugene makr korku barasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eugene makr korku barasu" height="30" width="40" /></a>
 </p>
 <a href="https://www.instagram.com/markeugene465/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eugene mark korku barasu" height="30" width="40" /></a>
-<a href="https://www.instagram.com/markeugene465/p/CTyR9_ZowiK/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="eugene mark korku barasu" height="30" width="40" /></a>
+<a href="https://www.snapchat.com/add/e_barasu2021?share_id=wRg8P6dDSuc&locale=en-ZA)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="eugene mark korku barasu" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>

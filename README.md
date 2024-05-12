@@ -32,8 +32,8 @@
 <a href="https://linkedin.com/in/eugene mark korku barasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eugene mark korku barasu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/eugene makr korku barasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eugene makr korku barasu" height="30" width="40" /></a>
 </p>
-https://www.instagram.com/markeugene465/
-<a href="[markeugene465](https://www.instagram.com/markeugene465/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eugene mark korku barasu" height="30" width="40" /></a>
+<a href="https://www.instagram.com/markeugene465/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eugene mark korku barasu" height="30" width="40" /></a>
+<a href="https://www.instagram.com/markeugene465/p/CTyR9_ZowiK/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="eugene mark korku barasu" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>

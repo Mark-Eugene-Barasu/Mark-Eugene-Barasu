@@ -4,7 +4,9 @@
 <h3 align="center">A passionate frontend developer from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mark-eugene-barasu&label=Profile%20views&color=0e75b6&style=flat" alt="mark-eugene-barasu" /> </p>
+
+https://komarev.com/ghpvc/?username=mark-eugene-barasu&label=Profile%20views&color=0e75b6&style=flat
+<p align="left"> <img src="https://user-images.githubusercontent.com/91565180/200851311-35246972-5cd6-45d9-8bd1-6c2046d480e4.gif" alt="mark-eugene-barasu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mark-eugene-barasu" alt="mark-eugene-barasu" /></a> </p>
 

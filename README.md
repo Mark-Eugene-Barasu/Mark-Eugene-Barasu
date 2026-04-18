@@ -68,6 +68,7 @@
   </tr>
 </table>
 
+<h3 align="center">Languages and Tools:</h3>
 <table align="center">
   <!-- Row 1 -->
   <tr>
